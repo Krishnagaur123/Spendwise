@@ -8,3 +8,5 @@ A personal finance tracking app designed to help users monitor spending patterns
 ### 🌐 Live Demo
 https://incandescent-kleicha-fb8bee.netlify.app/
 
+### Architecture Diagram
+<img width="1024" height="1024" alt="ChatGPT Image Nov 13, 2025, 12_55_22 PM" src="https://github.com/user-attachments/assets/183abe5c-a15c-4b6b-b5d4-b8fef44dc3c2" />
